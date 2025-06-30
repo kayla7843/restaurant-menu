@@ -7,21 +7,22 @@
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-	<div class="container">
-  <div class="menu-selection">
-    <!-- Your menu items here -->
-		 <h1>Menu</h1>
-		 <div id="menu-container"></div>
+  <div class="container">
+    <div id="menu-toggle">
+      <button data-category="lunch" class="active">Lunch</button>
+      <button data-category="dinner">Dinner</button>
+    </div>
+    <div class="menu-selection">
+      <h1>Menu</h1>
+      <div id="menu-container"></div>
+    </div>
+    <div class="order-check">
+      <h2>Current Order</h2>
+      <ul id="order-list"></ul>
+      <p>Total: $<span id="order-total">0.00</span></p>
+      <button id="clear-order">Clear Order</button>
+    </div>
   </div>
-  <div class="order-check">
-    <!-- Current order summary here -->
-		<h2>Current Order</h2>
- 		<ul id="order-list"></ul>
-  	<p>Total: $<span id="order-total">0.00</span></p>
-  <button id="clear-order">Clear Order</button>
-  </div>
-</div>
-
 
   <script src="script.js"></script>
 </body>
