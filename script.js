@@ -82,15 +82,14 @@ function addToOrder(item) {
 // Render current order list and total
 function renderOrder() {
   orderList.innerHTML = "";
-  let total = 0;
-
+  let subtotal = 0;
   order.forEach((item, idx) => {
-    total += item.Price;
+    subtotal += item.Price;
     const li = document.createElement("li");
     li.textContent = `${item.Name} - $${item.Price.toFixed(2)}`;
-    li.title = "Tap to remove item";
 
-    // Allow removal on click
+    li.style.cursor = "pointer";
+    li.title = "Tap to remove item";
     li.addEventListener("click", () => {
       order.splice(idx, 1);
       renderOrder();
@@ -99,8 +98,14 @@ function renderOrder() {
     orderList.appendChild(li);
   });
 
+  const tax = subtotal * SALES_TAX_RATE;
+  const total = subtotal + tax;
+
+  document.getElementById("order-subtotal").textContent = subtotal.toFixed(2);
+  document.getElementById("order-tax").textContent = tax.toFixed(2);
   orderTotal.textContent = total.toFixed(2);
 }
+
 
 // Clear order button
 clearOrderBtn.addEventListener("click", () => {

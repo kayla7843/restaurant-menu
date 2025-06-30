@@ -1482,7 +1482,7 @@
     "Name": "Soft Drink",
     "Spicy": "FALSE",
     "Price": 2,
-    "Avalibility": "Dinner"
+    "Avalibility": "Drinks"
   },
   {
     "ID": "D",
@@ -1491,7 +1491,7 @@
     "Name": "Ice Tea",
     "Spicy": "FALSE",
     "Price": 2,
-    "Avalibility": "Dinner"
+    "Avalibility": "Drinks"
   },
   {
     "ID": "D",
@@ -1500,7 +1500,7 @@
     "Name": "Hot Coffee",
     "Spicy": "FALSE",
     "Price": 2,
-    "Avalibility": "Dinner"
+    "Avalibility": "Drinks"
   },
   {
     "ID": "D",
@@ -1509,7 +1509,7 @@
     "Name": "Hot Tea",
     "Spicy": "FALSE",
     "Price": 2,
-    "Avalibility": "Dinner"
+    "Avalibility": "Drinks"
   },
   {
     "ID": "SO",
@@ -1518,7 +1518,7 @@
     "Name": "Steamed Rice (pt)",
     "Spicy": "FALSE",
     "Price": 2.5,
-    "Avalibility": "Dinner"
+    "Avalibility": "Side Order"
   },
   {
     "ID": "SO",
@@ -1527,7 +1527,7 @@
     "Name": "Steamed Rice (qt)",
     "Spicy": "FALSE",
     "Price": 4.95,
-    "Avalibility": "Dinner"
+    "Avalibility": "Side Order"
   },
   {
     "ID": "SO",
@@ -1536,7 +1536,7 @@
     "Name": "Plain Fried Rice (pt)",
     "Spicy": "FALSE",
     "Price": 4,
-    "Avalibility": "Dinner"
+    "Avalibility": "Side Order"
   },
   {
     "ID": "SO",
@@ -1545,7 +1545,7 @@
     "Name": "Plain Fried Rice (qt)",
     "Spicy": "FALSE",
     "Price": 6.95,
-    "Avalibility": "Dinner"
+    "Avalibility": "Side Order"
   },
   {
     "ID": "SO",
@@ -1554,7 +1554,7 @@
     "Name": "Donuts",
     "Spicy": "FALSE",
     "Price": 5.95,
-    "Avalibility": "Dinner"
+    "Avalibility": "Side Order"
   },
   {
     "ID": "SO",
@@ -1563,7 +1563,7 @@
     "Name": "Fortune Cookies (pc)",
     "Spicy": "FALSE",
     "Price": 0.35,
-    "Avalibility": "Dinner"
+    "Avalibility": "Side Order"
   },
   {
     "ID": "SO",
@@ -1572,7 +1572,7 @@
     "Name": "Fried Potato",
     "Spicy": "FALSE",
     "Price": 5.5,
-    "Avalibility": "Dinner"
+    "Avalibility": "Side Order"
   },
   {
     "ID": "SO",
@@ -1581,7 +1581,7 @@
     "Name": "Sauce (half pt)",
     "Spicy": "FALSE",
     "Price": 2,
-    "Avalibility": "Dinner"
+    "Avalibility": "Side Order"
   },
   {
     "ID": "SO",
@@ -1590,6 +1590,6 @@
     "Name": "Sauce (pt)",
     "Spicy": "FALSE",
     "Price": 4,
-    "Avalibility": "Dinner"
+    "Avalibility": "Side Order"
   }
 ]

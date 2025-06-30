@@ -11,6 +11,8 @@
     <div id="menu-toggle">
       <button data-category="lunch" class="active">Lunch</button>
       <button data-category="dinner">Dinner</button>
+			<button data-category="side order">Side Orders</button>
+			<button data-category="drinks">Drinks</button>
     </div>
     <div class="menu-selection">
       <h1>Menu</h1>
@@ -19,6 +21,8 @@
     <div class="order-check">
       <h2>Current Order</h2>
       <ul id="order-list"></ul>
+			<p>Subtotal: $<span id="order-subtotal">0.00</span></p>
+			<p>Tax: $<span id="order-tax">0.00</span></p>
       <p>Total: $<span id="order-total">0.00</span></p>
       <button id="clear-order">Clear Order</button>
     </div>
