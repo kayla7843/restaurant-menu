@@ -1,0 +1,67 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  max-width: none;  /* or just remove max-width */
+  /* or you can set a wider max-width, like max-width: 1200px; */
+}
+
+
+h1, h2 {
+  text-align: center;
+}
+
+#menu-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.menu-item {
+  border: 1px solid #ccc;
+  padding: 10px;
+  width: 180px;
+  cursor: pointer;
+  border-radius: 5px;
+  user-select: none;
+}
+
+.menu-item.spicy {
+  border-color: red;
+}
+
+.menu-item:hover {
+  background-color: #f0f0f0;
+}
+
+#order-list {
+  list-style: none;
+  padding: 0;
+  margin-bottom: 20px;
+}
+
+#order-list li {
+  margin: 5px 0;
+}
+
+.container {
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+  height: 80vh; /* optional, for vertical scroll if content overflows */
+}
+
+.menu-selection {
+  flex: 3; /* 3 parts out of 4 total */
+  border: 1px solid #ddd;
+  padding: 10px;
+  overflow-y: auto;
+}
+
+.order-check {
+  flex: 1; /* 1 part out of 4 total */
+  border: 1px solid #ddd;
+  padding: 10px;
+  overflow-y: auto;
+}

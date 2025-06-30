@@ -1,0 +1,1595 @@
+[
+  {
+    "ID": "C",
+    "Number": 1,
+    "Category": "Poultry",
+    "Name": "Chicken Chow Mein",
+    "Spicy": "FALSE",
+    "Price": 8.75,
+    "Avalibility": "Lunch"
+  },
+  {
+    "ID": "C",
+    "Number": 2,
+    "Category": "Poultry",
+    "Name": "Chicken w. Cashew Nuts",
+    "Spicy": "FALSE",
+    "Price": 8.75,
+    "Avalibility": "Lunch"
+  },
+  {
+    "ID": "C",
+    "Number": 3,
+    "Category": "Poultry",
+    "Name": "Chicken w. Vegatables",
+    "Spicy": "FALSE",
+    "Price": 8.75,
+    "Avalibility": "Lunch"
+  },
+  {
+    "ID": "C",
+    "Number": 4,
+    "Category": "Poultry",
+    "Name": "Chicken w. Broccoli",
+    "Spicy": "FALSE",
+    "Price": 8.75,
+    "Avalibility": "Lunch"
+  },
+  {
+    "ID": "C",
+    "Number": 5,
+    "Category": "Poultry",
+    "Name": "Sweet & Sour Chicken",
+    "Spicy": "FALSE",
+    "Price": 8.75,
+    "Avalibility": "Lunch"
+  },
+  {
+    "ID": "C",
+    "Number": 6,
+    "Category": "Poultry",
+    "Name": "Chicken w. Garlic Sauce",
+    "Spicy": "TRUE",
+    "Price": 8.75,
+    "Avalibility": "Lunch"
+  },
+  {
+    "ID": "C",
+    "Number": 7,
+    "Category": "Poultry",
+    "Name": "Hunan Chicken",
+    "Spicy": "TRUE",
+    "Price": 8.75,
+    "Avalibility": "Lunch"
+  },
+  {
+    "ID": "C",
+    "Number": 8,
+    "Category": "Poultry",
+    "Name": "Kung Pao Chicken",
+    "Spicy": "TRUE",
+    "Price": 8.75,
+    "Avalibility": "Lunch"
+  },
+  {
+    "ID": "C",
+    "Number": 9,
+    "Category": "Poultry",
+    "Name": "General Tso's Chicken",
+    "Spicy": "TRUE",
+    "Price": 8.95,
+    "Avalibility": "Lunch"
+  },
+  {
+    "ID": "C",
+    "Number": 10,
+    "Category": "Poultry",
+    "Name": "Sesame Chicken",
+    "Spicy": "TRUE",
+    "Price": 8.95,
+    "Avalibility": "Lunch"
+  },
+  {
+    "ID": "C",
+    "Number": 11,
+    "Category": "Poultry",
+    "Name": "Honey Chicken",
+    "Spicy": "FALSE",
+    "Price": 9.95,
+    "Avalibility": "Lunch"
+  },
+  {
+    "ID": "P",
+    "Number": 1,
+    "Category": "Pork",
+    "Name": "Pork Chow Mein",
+    "Spicy": "FALSE",
+    "Price": 8.75,
+    "Avalibility": "Lunch"
+  },
+  {
+    "ID": "P",
+    "Number": 2,
+    "Category": "Pork",
+    "Name": "Pork w. Vegetables",
+    "Spicy": "FALSE",
+    "Price": 8.75,
+    "Avalibility": "Lunch"
+  },
+  {
+    "ID": "P",
+    "Number": 3,
+    "Category": "Pork",
+    "Name": "Sweet & Sour Pork",
+    "Spicy": "FALSE",
+    "Price": 8.75,
+    "Avalibility": "Lunch"
+  },
+  {
+    "ID": "P",
+    "Number": 4,
+    "Category": "Pork",
+    "Name": "Pork w. Garlic Sauce",
+    "Spicy": "TRUE",
+    "Price": 8.75,
+    "Avalibility": "Lunch"
+  },
+  {
+    "ID": "P",
+    "Number": 5,
+    "Category": "Pork",
+    "Name": "Hunan Pork",
+    "Spicy": "TRUE",
+    "Price": 8.75,
+    "Avalibility": "Lunch"
+  },
+  {
+    "ID": "P",
+    "Number": 6,
+    "Category": "Pork",
+    "Name": "Double Sauteed Pork",
+    "Spicy": "TRUE",
+    "Price": 8.75,
+    "Avalibility": "Lunch"
+  },
+  {
+    "ID": "H",
+    "Number": 1,
+    "Category": "Diet Special",
+    "Name": "Fresh Garden Vegetables",
+    "Spicy": "FALSE",
+    "Price": 8.75,
+    "Avalibility": "Lunch"
+  },
+  {
+    "ID": "H",
+    "Number": 2,
+    "Category": "Diet Special",
+    "Name": "Chicken w. Vegetables",
+    "Spicy": "FALSE",
+    "Price": 8.75,
+    "Avalibility": "Lunch"
+  },
+  {
+    "ID": "H",
+    "Number": 3,
+    "Category": "Diet Special",
+    "Name": "Chicken w. Broccoli",
+    "Spicy": "FALSE",
+    "Price": 8.75,
+    "Avalibility": "Lunch"
+  },
+  {
+    "ID": "H",
+    "Number": 4,
+    "Category": "Diet Special",
+    "Name": "Shrimp w. Vegetables",
+    "Spicy": "FALSE",
+    "Price": 8.95,
+    "Avalibility": "Lunch"
+  },
+  {
+    "ID": "H",
+    "Number": 5,
+    "Category": "Diet Special",
+    "Name": "Double Delight",
+    "Spicy": "FALSE",
+    "Price": 8.95,
+    "Avalibility": "Lunch"
+  },
+  {
+    "ID": "H",
+    "Number": 6,
+    "Category": "Diet Special",
+    "Name": "Shrimp w. Broccoli",
+    "Spicy": "FALSE",
+    "Price": 8.95,
+    "Avalibility": "Lunch"
+  },
+  {
+    "ID": "F",
+    "Number": 1,
+    "Category": "Fried Rice",
+    "Name": "Vegetable Friend Rice",
+    "Spicy": "FALSE",
+    "Price": 8.25,
+    "Avalibility": "Lunch"
+  },
+  {
+    "ID": "F",
+    "Number": 2,
+    "Category": "Fried Rice",
+    "Name": "Chicken Fried Rice",
+    "Spicy": "FALSE",
+    "Price": 8.25,
+    "Avalibility": "Lunch"
+  },
+  {
+    "ID": "F",
+    "Number": 3,
+    "Category": "Fried Rice",
+    "Name": "Pork Fried Rice",
+    "Spicy": "FALSE",
+    "Price": 8.25,
+    "Avalibility": "Lunch"
+  },
+  {
+    "ID": "F",
+    "Number": 4,
+    "Category": "Fried Rice",
+    "Name": "Roast Pork Fried Rice",
+    "Spicy": "FALSE",
+    "Price": 8.25,
+    "Avalibility": "Lunch"
+  },
+  {
+    "ID": "F",
+    "Number": 5,
+    "Category": "Fried Rice",
+    "Name": "Shrimp Fried Rice",
+    "Spicy": "FALSE",
+    "Price": 8.95,
+    "Avalibility": "Lunch"
+  },
+  {
+    "ID": "F",
+    "Number": 6,
+    "Category": "Fried Rice",
+    "Name": "Combination Fried Rice",
+    "Spicy": "FALSE",
+    "Price": 8.95,
+    "Avalibility": "Lunch"
+  },
+  {
+    "ID": "F",
+    "Number": 7,
+    "Category": "Fried Rice",
+    "Name": "Beef Fried Rice",
+    "Spicy": "FALSE",
+    "Price": 8.95,
+    "Avalibility": "Lunch"
+  },
+  {
+    "ID": "L",
+    "Number": 1,
+    "Category": "Lo Mein",
+    "Name": "Vegetable Lo Mein",
+    "Spicy": "FALSE",
+    "Price": 8.75,
+    "Avalibility": "Lunch"
+  },
+  {
+    "ID": "L",
+    "Number": 2,
+    "Category": "Lo Mein",
+    "Name": "Chicken Lo Mein",
+    "Spicy": "FALSE",
+    "Price": 8.75,
+    "Avalibility": "Lunch"
+  },
+  {
+    "ID": "L",
+    "Number": 3,
+    "Category": "Lo Mein",
+    "Name": "Pork Lo Mein",
+    "Spicy": "FALSE",
+    "Price": 8.75,
+    "Avalibility": "Lunch"
+  },
+  {
+    "ID": "L",
+    "Number": 4,
+    "Category": "Lo Mein",
+    "Name": "Roast Pork Lo Mein",
+    "Spicy": "FALSE",
+    "Price": 8.75,
+    "Avalibility": "Lunch"
+  },
+  {
+    "ID": "L",
+    "Number": 5,
+    "Category": "Lo Mein",
+    "Name": "Shrimp Lo Mein",
+    "Spicy": "FALSE",
+    "Price": 8.95,
+    "Avalibility": "Lunch"
+  },
+  {
+    "ID": "L",
+    "Number": 6,
+    "Category": "Lo Mein",
+    "Name": "Combination Lo Mein",
+    "Spicy": "FALSE",
+    "Price": 8.95,
+    "Avalibility": "Lunch"
+  },
+  {
+    "ID": "L",
+    "Number": 7,
+    "Category": "Lo Mein",
+    "Name": "Beef Lo Mein",
+    "Spicy": "FALSE",
+    "Price": 8.95,
+    "Avalibility": "Lunch"
+  },
+  {
+    "ID": "B",
+    "Number": 1,
+    "Category": "Beef",
+    "Name": "Beef Chow Mein",
+    "Spicy": "FALSE",
+    "Price": 8.95,
+    "Avalibility": "Lunch"
+  },
+  {
+    "ID": "B",
+    "Number": 2,
+    "Category": "Beef",
+    "Name": "Beef w. Vegetables",
+    "Spicy": "FALSE",
+    "Price": 8.95,
+    "Avalibility": "Lunch"
+  },
+  {
+    "ID": "B",
+    "Number": 3,
+    "Category": "Beef",
+    "Name": "Beef w. Broccoli",
+    "Spicy": "FALSE",
+    "Price": 8.95,
+    "Avalibility": "Lunch"
+  },
+  {
+    "ID": "B",
+    "Number": 4,
+    "Category": "Beef",
+    "Name": "Beef w. Green Pepper",
+    "Spicy": "FALSE",
+    "Price": 8.95,
+    "Avalibility": "Lunch"
+  },
+  {
+    "ID": "B",
+    "Number": 5,
+    "Category": "Beef",
+    "Name": "Beef w. Garlic Sauce",
+    "Spicy": "TRUE",
+    "Price": 8.95,
+    "Avalibility": "Lunch"
+  },
+  {
+    "ID": "B",
+    "Number": 6,
+    "Category": "Beef",
+    "Name": "Hunan Beef",
+    "Spicy": "TRUE",
+    "Price": 8.95,
+    "Avalibility": "Lunch"
+  },
+  {
+    "ID": "S",
+    "Number": 1,
+    "Category": "Shrimp",
+    "Name": "Shrimp Chow Mein",
+    "Spicy": "FALSE",
+    "Price": 8.95,
+    "Avalibility": "Lunch"
+  },
+  {
+    "ID": "S",
+    "Number": 2,
+    "Category": "Shrimp",
+    "Name": "Shrimp w. Vegetables",
+    "Spicy": "FALSE",
+    "Price": 8.95,
+    "Avalibility": "Lunch"
+  },
+  {
+    "ID": "S",
+    "Number": 3,
+    "Category": "Shrimp",
+    "Name": "Shrimp w. Lobster Sauce",
+    "Spicy": "FALSE",
+    "Price": 8.95,
+    "Avalibility": "Lunch"
+  },
+  {
+    "ID": "S",
+    "Number": 4,
+    "Category": "Shrimp",
+    "Name": "Hunan Shrimp",
+    "Spicy": "TRUE",
+    "Price": 8.95,
+    "Avalibility": "Lunch"
+  },
+  {
+    "ID": "S",
+    "Number": 5,
+    "Category": "Shrimp",
+    "Name": "Kung Pao Shrimp",
+    "Spicy": "TRUE",
+    "Price": 8.95,
+    "Avalibility": "Lunch"
+  },
+  {
+    "ID": "S",
+    "Number": 6,
+    "Category": "Shrimp",
+    "Name": "Shrimp w. Garlic Sauce",
+    "Spicy": "TRUE",
+    "Price": 8.95,
+    "Avalibility": "Lunch"
+  },
+  {
+    "ID": "CB",
+    "Number": 1,
+    "Category": "Special Combo",
+    "Name": "Vegetarian Delight",
+    "Spicy": "FALSE",
+    "Price": 11.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "CB",
+    "Number": 2,
+    "Category": "Special Combo",
+    "Name": "Chicken w. Broccoli",
+    "Spicy": "FALSE",
+    "Price": 11.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "CB",
+    "Number": 3,
+    "Category": "Special Combo",
+    "Name": "Sweet & Sour Chicken",
+    "Spicy": "FALSE",
+    "Price": 11.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "CB",
+    "Number": 4,
+    "Category": "Special Combo",
+    "Name": "Chicken w. Cashew Nuts",
+    "Spicy": "FALSE",
+    "Price": 11.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "CB",
+    "Number": 5,
+    "Category": "Special Combo",
+    "Name": "Hunan Chicken",
+    "Spicy": "TRUE",
+    "Price": 11.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "CB",
+    "Number": 6,
+    "Category": "Special Combo",
+    "Name": "Sweet & Sour Pork",
+    "Spicy": "FALSE",
+    "Price": 11.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "CB",
+    "Number": 7,
+    "Category": "Special Combo",
+    "Name": "Hunan Pork",
+    "Spicy": "TRUE",
+    "Price": 11.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "CB",
+    "Number": 8,
+    "Category": "Special Combo",
+    "Name": "Beef w. Broccoli",
+    "Spicy": "FALSE",
+    "Price": 12.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "CB",
+    "Number": 9,
+    "Category": "Special Combo",
+    "Name": "Beef w. Green Pepper",
+    "Spicy": "FALSE",
+    "Price": 12.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "CB",
+    "Number": 10,
+    "Category": "Special Combo",
+    "Name": "General Tso's Chicken",
+    "Spicy": "TRUE",
+    "Price": 12.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "CB",
+    "Number": 11,
+    "Category": "Special Combo",
+    "Name": "Shrimp w. Lobster Sauce",
+    "Spicy": "FALSE",
+    "Price": 13.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "CB",
+    "Number": 12,
+    "Category": "Special Combo",
+    "Name": "Double Delight",
+    "Spicy": "FALSE",
+    "Price": 13.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "CB",
+    "Number": 13,
+    "Category": "Special Combo",
+    "Name": "Shrimp w. Broccoli",
+    "Spicy": "FALSE",
+    "Price": 13.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "CB",
+    "Number": 14,
+    "Category": "Special Combo",
+    "Name": "Sesame Chicken",
+    "Spicy": "TRUE",
+    "Price": 12.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "AP",
+    "Number": 1,
+    "Category": "Appetizer",
+    "Name": "Egg Roll (1)",
+    "Spicy": "FALSE",
+    "Price": 2.25,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "AP",
+    "Number": 2,
+    "Category": "Appetizer",
+    "Name": "Crab Rangoon (8)",
+    "Spicy": "FALSE",
+    "Price": 2.25,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "AP",
+    "Number": 3,
+    "Category": "Appetizer",
+    "Name": "Fried Wonton (8)",
+    "Spicy": "FALSE",
+    "Price": 6.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "AP",
+    "Number": 4,
+    "Category": "Appetizer",
+    "Name": "Fried Chicken Wing (6)",
+    "Spicy": "FALSE",
+    "Price": 6.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "AP",
+    "Number": 5,
+    "Category": "Appetizer",
+    "Name": "Boiled or Fried Dumpling (6)",
+    "Spicy": "FALSE",
+    "Price": 6.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "AP",
+    "Number": 6,
+    "Category": "Appetizer",
+    "Name": "Fried Shrimp (5)",
+    "Spicy": "FALSE",
+    "Price": 6.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "AP",
+    "Number": 7,
+    "Category": "Appetizer",
+    "Name": "Chicken Finger",
+    "Spicy": "FALSE",
+    "Price": 6.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "AP",
+    "Number": 8,
+    "Category": "Appetizer",
+    "Name": "Chicken Teriyaki (5)",
+    "Spicy": "FALSE",
+    "Price": 7.5,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "AP",
+    "Number": 9,
+    "Category": "Appetizer",
+    "Name": "Beef Teriyaki (4)",
+    "Spicy": "FALSE",
+    "Price": 7.5,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "AP",
+    "Number": 10,
+    "Category": "Appetizer",
+    "Name": "Sesame Cold Noodles",
+    "Spicy": "TRUE",
+    "Price": 6.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "AP",
+    "Number": 11,
+    "Category": "Appetizer",
+    "Name": "Pu Pu Platter (For 2)",
+    "Spicy": "FALSE",
+    "Price": 15.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "AP",
+    "Number": 12,
+    "Category": "Appetizer",
+    "Name": "Veg Spring Roll (1)",
+    "Spicy": "FALSE",
+    "Price": 2.25,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "AP",
+    "Number": 13,
+    "Category": "Appetizer",
+    "Name": "Shrimp Spring Roll (1)",
+    "Spicy": "FALSE",
+    "Price": 2.5,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "SP",
+    "Number": 1,
+    "Category": "Soup",
+    "Name": "Wonton Soup",
+    "Spicy": "FALSE",
+    "Price": 2.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "SP",
+    "Number": 2,
+    "Category": "Soup",
+    "Name": "Egg Drop Soup",
+    "Spicy": "FALSE",
+    "Price": 2.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "SP",
+    "Number": 3,
+    "Category": "Soup",
+    "Name": "Hot & Sour Soup",
+    "Spicy": "TRUE",
+    "Price": 2.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "SP",
+    "Number": 4,
+    "Category": "Soup",
+    "Name": "Veg. Bean Curd Soup (For 2)",
+    "Spicy": "FALSE",
+    "Price": 6.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "SP",
+    "Number": 5,
+    "Category": "Soup",
+    "Name": "Dragon & Phoenix Soup (For 2)",
+    "Spicy": "FALSE",
+    "Price": 7.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "SP",
+    "Number": 6,
+    "Category": "Soup",
+    "Name": "Chicken Noodle Soup",
+    "Spicy": "FALSE",
+    "Price": 8.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "SP",
+    "Number": 7,
+    "Category": "Soup",
+    "Name": "Pork Noodle Soup",
+    "Spicy": "FALSE",
+    "Price": 8.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "SP",
+    "Number": 8,
+    "Category": "Soup",
+    "Name": "House Combination Noodle Soup",
+    "Spicy": "FALSE",
+    "Price": 9.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "CS",
+    "Number": 1,
+    "Category": "Special Deluxe",
+    "Name": "Golden Wok Vegetable Delight",
+    "Spicy": "FALSE",
+    "Price": 12.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "CS",
+    "Number": 2,
+    "Category": "Special Deluxe",
+    "Name": "Lemon Chicken",
+    "Spicy": "FALSE",
+    "Price": 12.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "CS",
+    "Number": 3,
+    "Category": "Special Deluxe",
+    "Name": "Honey Chicken",
+    "Spicy": "FALSE",
+    "Price": 12.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "CS",
+    "Number": 4,
+    "Category": "Special Deluxe",
+    "Name": "General Tso's Chicken",
+    "Spicy": "TRUE",
+    "Price": 12.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "CS",
+    "Number": 5,
+    "Category": "Special Deluxe",
+    "Name": "Sesame Chicken",
+    "Spicy": "TRUE",
+    "Price": 12.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "CS",
+    "Number": 6,
+    "Category": "Special Deluxe",
+    "Name": "Orange Chicken",
+    "Spicy": "TRUE",
+    "Price": 12.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "CS",
+    "Number": 7,
+    "Category": "Special Deluxe",
+    "Name": "Amazing Chicken",
+    "Spicy": "TRUE",
+    "Price": 13.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "CS",
+    "Number": 8,
+    "Category": "Special Deluxe",
+    "Name": "Orange Beef",
+    "Spicy": "TRUE",
+    "Price": 14.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "CS",
+    "Number": 9,
+    "Category": "Special Deluxe",
+    "Name": "General Tso's Shrimp",
+    "Spicy": "TRUE",
+    "Price": 14.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "CS",
+    "Number": 10,
+    "Category": "Special Deluxe",
+    "Name": "Sesame Shrimp",
+    "Spicy": "TRUE",
+    "Price": 14.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "CS",
+    "Number": 11,
+    "Category": "Special Deluxe",
+    "Name": "Honey Shrimp",
+    "Spicy": "FALSE",
+    "Price": 14.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "CS",
+    "Number": 12,
+    "Category": "Special Deluxe",
+    "Name": "Salt and Pepper Shrimp",
+    "Spicy": "FALSE",
+    "Price": 14.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "CS",
+    "Number": 13,
+    "Category": "Special Deluxe",
+    "Name": "Tangy Spicy ScDinnerops and Shrimp",
+    "Spicy": "FALSE",
+    "Price": 14.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "CS",
+    "Number": 14,
+    "Category": "Special Deluxe",
+    "Name": "Happy Family",
+    "Spicy": "FALSE",
+    "Price": 14.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "CS",
+    "Number": 15,
+    "Category": "Special Deluxe",
+    "Name": "House Pan Fried Noodles",
+    "Spicy": "FALSE",
+    "Price": 14.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "CS",
+    "Number": 16,
+    "Category": "Special Deluxe",
+    "Name": "Double Delight",
+    "Spicy": "FALSE",
+    "Price": 14.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "CS",
+    "Number": 17,
+    "Category": "Special Deluxe",
+    "Name": "Triple Delight",
+    "Spicy": "FALSE",
+    "Price": 14.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "CS",
+    "Number": 18,
+    "Category": "Special Deluxe",
+    "Name": "Bride & Groom",
+    "Spicy": "FALSE",
+    "Price": 13.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "CS",
+    "Number": 19,
+    "Category": "Special Deluxe",
+    "Name": "The Perfect Couple",
+    "Spicy": "FALSE",
+    "Price": 19.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "CK",
+    "Number": 1,
+    "Category": "Poultry",
+    "Name": "Moo Shu Chicken",
+    "Spicy": "FALSE",
+    "Price": 11.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "CK",
+    "Number": 2,
+    "Category": "Poultry",
+    "Name": "Chicken w. Cashew Nuts",
+    "Spicy": "FALSE",
+    "Price": 11.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "CK",
+    "Number": 3,
+    "Category": "Poultry",
+    "Name": "Chicken w. Vegetables",
+    "Spicy": "FALSE",
+    "Price": 11.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "CK",
+    "Number": 4,
+    "Category": "Poultry",
+    "Name": "Moo Goo Gai Pan",
+    "Spicy": "FALSE",
+    "Price": 11.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "CK",
+    "Number": 5,
+    "Category": "Poultry",
+    "Name": "Chicken w. Broccoli",
+    "Spicy": "FALSE",
+    "Price": 11.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "CK",
+    "Number": 6,
+    "Category": "Poultry",
+    "Name": "Sweet & Sour Chicken",
+    "Spicy": "FALSE",
+    "Price": 11.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "CK",
+    "Number": 7,
+    "Category": "Poultry",
+    "Name": "Chicken w. Black Bean Sauce",
+    "Spicy": "FALSE",
+    "Price": 11.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "CK",
+    "Number": 8,
+    "Category": "Poultry",
+    "Name": "Chicken w. Garlic Sauce",
+    "Spicy": "TRUE",
+    "Price": 11.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "CK",
+    "Number": 9,
+    "Category": "Poultry",
+    "Name": "Hunan Chicken",
+    "Spicy": "TRUE",
+    "Price": 11.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "CK",
+    "Number": 10,
+    "Category": "Poultry",
+    "Name": "Kung Pao Chicken",
+    "Spicy": "TRUE",
+    "Price": 11.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "CK",
+    "Number": 11,
+    "Category": "Poultry",
+    "Name": "Chicken w. Curry Sauce",
+    "Spicy": "TRUE",
+    "Price": 11.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "CK",
+    "Number": 12,
+    "Category": "Poultry",
+    "Name": "Chicken w. Ma La Sauce",
+    "Spicy": "TRUE",
+    "Price": 11.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "CK",
+    "Number": 13,
+    "Category": "Poultry",
+    "Name": "Szechuan Chicken",
+    "Spicy": "TRUE",
+    "Price": 11.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "CK",
+    "Number": 14,
+    "Category": "Poultry",
+    "Name": "Mushroom Chicken",
+    "Spicy": "FALSE",
+    "Price": 11.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "BF",
+    "Number": 1,
+    "Category": "Beef",
+    "Name": "Moo Shu Beef",
+    "Spicy": "FALSE",
+    "Price": 12.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "BF",
+    "Number": 2,
+    "Category": "Beef",
+    "Name": "Beef w. Vegetables",
+    "Spicy": "FALSE",
+    "Price": 12.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "BF",
+    "Number": 3,
+    "Category": "Beef",
+    "Name": "Beef w. Broccoli",
+    "Spicy": "FALSE",
+    "Price": 12.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "BF",
+    "Number": 4,
+    "Category": "Beef",
+    "Name": "Beef w. Green Pepper",
+    "Spicy": "FALSE",
+    "Price": 12.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "BF",
+    "Number": 5,
+    "Category": "Beef",
+    "Name": "Beef w. Garlic Sauce",
+    "Spicy": "TRUE",
+    "Price": 12.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "BF",
+    "Number": 6,
+    "Category": "Beef",
+    "Name": "Hunan Beef",
+    "Spicy": "TRUE",
+    "Price": 12.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "BF",
+    "Number": 7,
+    "Category": "Beef",
+    "Name": "Kung Pao Beef",
+    "Spicy": "TRUE",
+    "Price": 12.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "BF",
+    "Number": 8,
+    "Category": "Beef",
+    "Name": "Beef w. Ma La Sauce",
+    "Spicy": "TRUE",
+    "Price": 12.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "BF",
+    "Number": 9,
+    "Category": "Beef",
+    "Name": "Szechuan Beef",
+    "Spicy": "TRUE",
+    "Price": 13.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "BF",
+    "Number": 10,
+    "Category": "Beef",
+    "Name": "Mushroom Beef",
+    "Spicy": "FALSE",
+    "Price": 12.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "BF",
+    "Number": 11,
+    "Category": "Beef",
+    "Name": "Mongolian Beef",
+    "Spicy": "TRUE",
+    "Price": 13.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "PK",
+    "Number": 1,
+    "Category": "Pork",
+    "Name": "Moo Shu Pork",
+    "Spicy": "FALSE",
+    "Price": 11.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "PK",
+    "Number": 2,
+    "Category": "Pork",
+    "Name": "Pork w. Vegetables",
+    "Spicy": "FALSE",
+    "Price": 11.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "PK",
+    "Number": 3,
+    "Category": "Pork",
+    "Name": "Sweet & Sour Pork",
+    "Spicy": "FALSE",
+    "Price": 11.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "PK",
+    "Number": 4,
+    "Category": "Pork",
+    "Name": "Roast Pork w. Vegetables",
+    "Spicy": "FALSE",
+    "Price": 11.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "PK",
+    "Number": 5,
+    "Category": "Pork",
+    "Name": "Pork w. Black Bean Sauce",
+    "Spicy": "TRUE",
+    "Price": 11.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "PK",
+    "Number": 6,
+    "Category": "Pork",
+    "Name": "Hunan Pork",
+    "Spicy": "TRUE",
+    "Price": 11.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "PK",
+    "Number": 7,
+    "Category": "Pork",
+    "Name": "Double Sauteed Pork",
+    "Spicy": "TRUE",
+    "Price": 11.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "PK",
+    "Number": 8,
+    "Category": "Pork",
+    "Name": "Pork w. Ma La Sauce",
+    "Spicy": "TRUE",
+    "Price": 11.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "PK",
+    "Number": 9,
+    "Category": "Pork",
+    "Name": "Mushroom Pork",
+    "Spicy": "FALSE",
+    "Price": 11.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "SF",
+    "Number": 1,
+    "Category": "Seafood",
+    "Name": "Moo Shu Shrimp",
+    "Spicy": "FALSE",
+    "Price": 13.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "SF",
+    "Number": 2,
+    "Category": "Seafood",
+    "Name": "Shrimp w. Cashew Nuts",
+    "Spicy": "FALSE",
+    "Price": 13.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "SF",
+    "Number": 3,
+    "Category": "Seafood",
+    "Name": "Shrimp w. Vegetables",
+    "Spicy": "FALSE",
+    "Price": 13.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "SF",
+    "Number": 4,
+    "Category": "Seafood",
+    "Name": "Shrimp w. Broccoli",
+    "Spicy": "FALSE",
+    "Price": 13.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "SF",
+    "Number": 5,
+    "Category": "Seafood",
+    "Name": "Sweet & Sour Shrimp",
+    "Spicy": "FALSE",
+    "Price": 13.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "SF",
+    "Number": 6,
+    "Category": "Seafood",
+    "Name": "Shrimp w. Lobster Sauce",
+    "Spicy": "FALSE",
+    "Price": 13.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "SF",
+    "Number": 7,
+    "Category": "Seafood",
+    "Name": "Shrimp w. Garlic Sauce",
+    "Spicy": "TRUE",
+    "Price": 13.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "SF",
+    "Number": 8,
+    "Category": "Seafood",
+    "Name": "Hunan Shrimp",
+    "Spicy": "TRUE",
+    "Price": 13.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "SF",
+    "Number": 9,
+    "Category": "Seafood",
+    "Name": "Kung Pao Shrimp",
+    "Spicy": "TRUE",
+    "Price": 13.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "SF",
+    "Number": 10,
+    "Category": "Seafood",
+    "Name": "Shrimp w. Ma La Sauce",
+    "Spicy": "TRUE",
+    "Price": 13.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "SF",
+    "Number": 11,
+    "Category": "Seafood",
+    "Name": "Sea ScDinnerops w. Garlic Sauce",
+    "Spicy": "TRUE",
+    "Price": 14.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "SF",
+    "Number": 12,
+    "Category": "Seafood",
+    "Name": "Sea ScDinnerops w. Ma La Sauce",
+    "Spicy": "TRUE",
+    "Price": 14.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "SF",
+    "Number": 13,
+    "Category": "Seafood",
+    "Name": "Sea ScDinnerops w. Vegs",
+    "Spicy": "FALSE",
+    "Price": 14.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "SF",
+    "Number": 14,
+    "Category": "Seafood",
+    "Name": "Sea ScDinnerops w. Black Bean Sauce",
+    "Spicy": "FALSE",
+    "Price": 14.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "CS",
+    "Number": 20,
+    "Category": "Chef's Special",
+    "Name": "Black Pepper Chicken",
+    "Spicy": "FALSE",
+    "Price": 13.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "CS",
+    "Number": 21,
+    "Category": "Chef's Special",
+    "Name": "Salt and Pepper Chicken",
+    "Spicy": "FALSE",
+    "Price": 13.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "CS",
+    "Number": 22,
+    "Category": "Chef's Special",
+    "Name": "Bourbon Chicken",
+    "Spicy": "FALSE",
+    "Price": 13.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "CS",
+    "Number": 23,
+    "Category": "Chef's Special",
+    "Name": "Coconut Chicken",
+    "Spicy": "FALSE",
+    "Price": 14.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "CS",
+    "Number": 24,
+    "Category": "Chef's Special",
+    "Name": "Coconut Shrimp",
+    "Spicy": "FALSE",
+    "Price": 14.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "CS",
+    "Number": 25,
+    "Category": "Chef's Special",
+    "Name": "Orange Shrimp",
+    "Spicy": "FALSE",
+    "Price": 14.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "RN",
+    "Number": 1,
+    "Category": "Chow Mei Fun",
+    "Name": "Pork Mei Fun",
+    "Spicy": "FALSE",
+    "Price": 11.5,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "RN",
+    "Number": 2,
+    "Category": "Chow Mei Fun",
+    "Name": "Roast Pork Mei Fun",
+    "Spicy": "FALSE",
+    "Price": 11.5,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "RN",
+    "Number": 3,
+    "Category": "Chow Mei Fun",
+    "Name": "Chicken Mei Fun",
+    "Spicy": "FALSE",
+    "Price": 11.5,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "RN",
+    "Number": 4,
+    "Category": "Chow Mei Fun",
+    "Name": "Beef Mei Fun",
+    "Spicy": "FALSE",
+    "Price": 13.5,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "RN",
+    "Number": 5,
+    "Category": "Chow Mei Fun",
+    "Name": "Shrimp Mei Fun",
+    "Spicy": "FALSE",
+    "Price": 13.5,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "RN",
+    "Number": 6,
+    "Category": "Chow Mei Fun",
+    "Name": "Combination Mei Fun",
+    "Spicy": "FALSE",
+    "Price": 13.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "RN",
+    "Number": 7,
+    "Category": "Chow Mei Fun",
+    "Name": "Singapore Rice Noodles",
+    "Spicy": "FALSE",
+    "Price": 13.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "D",
+    "Number": 1,
+    "Category": "Drinks",
+    "Name": "Soft Drink",
+    "Spicy": "FALSE",
+    "Price": 2,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "D",
+    "Number": 2,
+    "Category": "Drinks",
+    "Name": "Ice Tea",
+    "Spicy": "FALSE",
+    "Price": 2,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "D",
+    "Number": 3,
+    "Category": "Drinks",
+    "Name": "Hot Coffee",
+    "Spicy": "FALSE",
+    "Price": 2,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "D",
+    "Number": 4,
+    "Category": "Drinks",
+    "Name": "Hot Tea",
+    "Spicy": "FALSE",
+    "Price": 2,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "SO",
+    "Number": 1,
+    "Category": "Side Order",
+    "Name": "Steamed Rice (pt)",
+    "Spicy": "FALSE",
+    "Price": 2.5,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "SO",
+    "Number": 2,
+    "Category": "Side Order",
+    "Name": "Steamed Rice (qt)",
+    "Spicy": "FALSE",
+    "Price": 4.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "SO",
+    "Number": 3,
+    "Category": "Side Order",
+    "Name": "Plain Fried Rice (pt)",
+    "Spicy": "FALSE",
+    "Price": 4,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "SO",
+    "Number": 4,
+    "Category": "Side Order",
+    "Name": "Plain Fried Rice (qt)",
+    "Spicy": "FALSE",
+    "Price": 6.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "SO",
+    "Number": 5,
+    "Category": "Side Order",
+    "Name": "Donuts",
+    "Spicy": "FALSE",
+    "Price": 5.95,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "SO",
+    "Number": 6,
+    "Category": "Side Order",
+    "Name": "Fortune Cookies (pc)",
+    "Spicy": "FALSE",
+    "Price": 0.35,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "SO",
+    "Number": 7,
+    "Category": "Side Order",
+    "Name": "Fried Potato",
+    "Spicy": "FALSE",
+    "Price": 5.5,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "SO",
+    "Number": 8,
+    "Category": "Side Order",
+    "Name": "Sauce (half pt)",
+    "Spicy": "FALSE",
+    "Price": 2,
+    "Avalibility": "Dinner"
+  },
+  {
+    "ID": "SO",
+    "Number": 9,
+    "Category": "Side Order",
+    "Name": "Sauce (pt)",
+    "Spicy": "FALSE",
+    "Price": 4,
+    "Avalibility": "Dinner"
+  }
+]
