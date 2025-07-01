@@ -20,16 +20,14 @@ async function loadMenu() {
   }
 }
 
-// Render menu items filtered by availability (lunch/dinner)
 function renderMenu() {
   menuContainer.innerHTML = "";
 
-  // Filter items by availability (lunch/dinner)
-  const filteredMenu = menu.filter(item => 
+  const filteredMenu = menu.filter(item =>
     item.Avalibility && item.Avalibility.toLowerCase() === currentCategory
   );
 
-  // Group items by category
+  // Group by category
   const categories = {};
   filteredMenu.forEach(item => {
     if (!categories[item.Category]) {
@@ -38,20 +36,21 @@ function renderMenu() {
     categories[item.Category].push(item);
   });
 
-  // For each category, create a section with title and items
+  // Loop through each category and render
   Object.keys(categories).forEach(categoryName => {
-    // Category header
     const categoryHeader = document.createElement("h3");
     categoryHeader.textContent = categoryName;
     categoryHeader.style.marginTop = "20px";
-    menuContainer.appendChild(categoryHeader);
 
-    // Items list container for this category
-    const categoryDiv = document.createElement("div");
-    categoryDiv.style.display = "flex";
-    categoryDiv.style.flexWrap = "wrap";
-    categoryDiv.style.gap = "10px";
-    menuContainer.appendChild(categoryDiv);
+    const categoryWrapper = document.createElement("div");
+    categoryWrapper.className = "menu-category";
+    categoryWrapper.appendChild(categoryHeader);
+
+    const categoryItems = document.createElement("div");
+    categoryItems.style.display = "flex";
+    categoryItems.style.flexWrap = "wrap";
+    categoryItems.style.gap = "10px";
+    categoryItems.style.marginBottom = "20px";
 
     categories[categoryName].forEach(item => {
       const div = document.createElement("div");
@@ -59,18 +58,18 @@ function renderMenu() {
       if (item.Spicy && item.Spicy.toLowerCase() === "true") {
         div.classList.add("spicy");
       }
-
       div.textContent = `${item.Name} - $${item.Price.toFixed(2)}`;
       div.title = `${item.Category}${item.Spicy && item.Spicy.toLowerCase() === "true" ? " (Spicy)" : ""}`;
+      div.addEventListener("click", () => addToOrder(item));
 
-      div.addEventListener("click", () => {
-        addToOrder(item);
-      });
-
-      categoryDiv.appendChild(div);
+      categoryItems.appendChild(div);
     });
+
+    categoryWrapper.appendChild(categoryItems);
+    menuContainer.appendChild(categoryWrapper);
   });
 }
+
 
 
 // Add item to order
@@ -86,6 +85,13 @@ function renderOrder() {
   order.forEach((item, idx) => {
     subtotal += item.Price;
     const li = document.createElement("li");
+    // Apply indent styling if it's a modification
+    if (item.Avalibility && item.Avalibility.toLowerCase() === "modifications") {
+    li.style.marginLeft = "20px";         // Indent
+    //li.style.fontStyle = "italic";        // Optional: make it look different
+    //li.style.color = "#666";              // Optional: lighter color
+    }
+
     li.textContent = `${item.Name} - $${item.Price.toFixed(2)}`;
 
     li.style.cursor = "pointer";

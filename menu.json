@@ -1591,5 +1591,104 @@
     "Spicy": "FALSE",
     "Price": 4,
     "Avalibility": "Side Order"
+  },
+	 {
+    "ID": "LM",
+    "Number": 1,
+    "Category": "Lunch Modifications",
+    "Name": "plain fried rice",
+    "Spicy": "FALSE",
+    "Price": 0.5,
+    "Avalibility": "Modifications"
+  },
+	{
+    "ID": "LM",
+    "Number": 2,
+    "Category": "Lunch Modifications",
+    "Name": "white meat",
+    "Spicy": "FALSE",
+    "Price": 0.5,
+    "Avalibility": "Modifications"
+  },
+	{
+    "ID": "DM",
+    "Number": 1,
+    "Category": "Dinner Modifications",
+    "Name": "plain fried rice",
+    "Spicy": "FALSE",
+    "Price": 1.0,
+    "Avalibility": "Modifications"
+  },
+	{
+    "ID": "DM",
+    "Number": 2,
+    "Category": "Dinner Modifications",
+    "Name": "white meat",
+    "Spicy": "FALSE",
+    "Price": 1.0,
+    "Avalibility": "Modifications"
+  },
+  {
+    "ID": "M",
+    "Number": 1,
+    "Category": "Modifications",
+    "Name": "more sauce",
+    "Spicy": "FALSE",
+    "Price": 0,
+    "Avalibility": "Modifications"
+  },
+  {
+    "ID": "M",
+    "Number": 2,
+    "Category": "Modifications",
+    "Name": "less sauce",
+    "Spicy": "FALSE",
+    "Price": 0,
+    "Avalibility": "Modifications"
+  },  
+  {
+    "ID": "M",
+    "Number": 3,
+    "Category": "Modifications",
+    "Name": "no spicy",
+    "Spicy": "TRUE",
+    "Price": 0,
+    "Avalibility": "Modifications"
+  },  
+  {
+    "ID": "M",
+    "Number": 4,
+    "Category": "Modifications",
+    "Name": "less spicy",
+    "Spicy": "TRUE",
+    "Price": 0,
+    "Avalibility": "Modifications"
+  },  
+  {
+    "ID": "M",
+    "Number": 5,
+    "Category": "Modifications",
+    "Name": "spicy",
+    "Spicy": "TRUE",
+    "Price": 0,
+    "Avalibility": "Modifications"
+  },  
+  {
+    "ID": "M",
+    "Number": 6,
+    "Category": "Modifications",
+    "Name": "extra spicy",
+    "Spicy": "TRUE",
+    "Price": 0,
+    "Avalibility": "Modifications"
+  },  
+  {
+    "ID": "M",
+    "Number": 7,
+    "Category": "Modifications",
+    "Name": "custom",
+    "Spicy": "FALSE",
+    "Price": 0,
+    "Avalibility": "Modifications"
   }
 ]
