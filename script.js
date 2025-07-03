@@ -1,7 +1,7 @@
 let menu = [];
 let order = [];
 let currentCategory = "lunch";
-const SALES_TAX_RATE = 0.065; 
+const SALES_TAX_RATE = 0.06; 
 
 const menuContainer = document.getElementById("menu-container");
 const orderList = document.getElementById("order-list");

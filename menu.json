@@ -1481,7 +1481,7 @@
     "Category": "Drinks",
     "Name": "Soft Drink",
     "Spicy": "FALSE",
-    "Price": 2,
+    "Price": 2.75,
     "Avalibility": "Drinks"
   },
   {
@@ -1490,7 +1490,7 @@
     "Category": "Drinks",
     "Name": "Ice Tea",
     "Spicy": "FALSE",
-    "Price": 2,
+    "Price": 2.75,
     "Avalibility": "Drinks"
   },
   {
@@ -1499,7 +1499,7 @@
     "Category": "Drinks",
     "Name": "Hot Coffee",
     "Spicy": "FALSE",
-    "Price": 2,
+    "Price": 2.75,
     "Avalibility": "Drinks"
   },
   {
@@ -1508,7 +1508,7 @@
     "Category": "Drinks",
     "Name": "Hot Tea",
     "Spicy": "FALSE",
-    "Price": 2,
+    "Price": 2.75,
     "Avalibility": "Drinks"
   },
   {
