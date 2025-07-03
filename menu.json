@@ -1634,7 +1634,7 @@
     "Category": "Modifications",
     "Name": "more sauce",
     "Spicy": "FALSE",
-    "Price": 0,
+    "Price": 1.5,
     "Avalibility": "Modifications"
   },
   {
@@ -1689,6 +1689,51 @@
     "Name": "custom",
     "Spicy": "FALSE",
     "Price": 0,
+    "Avalibility": "Modifications"
+  },  
+  {
+    "ID": "M",
+    "Number": 8,
+    "Category": "Custom",
+    "Name": "custom",
+    "Spicy": "FALSE",
+    "Price": 1,
+    "Avalibility": "Modifications"
+  },  
+  {
+    "ID": "M",
+    "Number": 9,
+    "Category": "Custom",
+    "Name": "custom",
+    "Spicy": "FALSE",
+    "Price": 2,
+    "Avalibility": "Modifications"
+  },
+	{
+    "ID": "M",
+    "Number": 10,
+    "Category": "Custom",
+    "Name": "custom",
+    "Spicy": "FALSE",
+    "Price": 3,
+    "Avalibility": "Modifications"
+  },
+	{
+    "ID": "M",
+    "Number": 11,
+    "Category": "Custom",
+    "Name": "custom",
+    "Spicy": "FALSE",
+    "Price": 4,
+    "Avalibility": "Modifications"
+  },
+	{
+    "ID": "M",
+    "Number": 12,
+    "Category": "Custom",
+    "Name": "custom",
+    "Spicy": "FALSE",
+    "Price": 5,
     "Avalibility": "Modifications"
   }
 ]
